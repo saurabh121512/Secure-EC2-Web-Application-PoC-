@@ -3,6 +3,8 @@
 
 imagesec2![EC2 Web Output](imagesec2-web-output.png)
 
+![EC2 Web Output](website-output.png) 
+
 
 Objective
 •	Deploy a web application on EC2
