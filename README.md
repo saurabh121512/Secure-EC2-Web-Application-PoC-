@@ -1,1 +1,1 @@
-# Secure-EC2-Web-Application-PoC-
+# Secure-EC2-Web-Application-PoC
