@@ -1,7 +1,7 @@
 # Secure-EC2-Web-Application-PoC
 
 
-images/ec2-web-output.png
+imagesec2-web-output.png
 
 Objective
 •	Deploy a web application on EC2
